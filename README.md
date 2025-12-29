@@ -1,5 +1,9 @@
 # QA Postman Utils (RU)
 
+<div align="center">
+  <img src="photo_2025-12-29_13-33-37.jpg" alt="QA Postman Utils" width="400">
+</div>
+
 Набор готовых **Postman-скриптов** для QA-инженеров, работающих с российскими системами.
 
 Формат: Markdown-файлы с копируемыми блоками кода для быстрого использования в Postman.
