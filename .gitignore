@@ -1,0 +1,57 @@
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.iml
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Postman
+*.postman_environment.json
+*.postman_collection.json
+.postman/
+
+# Node (если будет использоваться)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python (если будет использоваться)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Other
+*.zip
+*.tar.gz
+*.rar
+
